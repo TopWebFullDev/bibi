@@ -37,7 +37,6 @@ const Config = {
         [Bibi.SRC]: [
             'bibi/and/jo.js',
             'bibi/extensions/analytics.js',
-            'bibi/extensions/epubcfi.js',
             'bibi/extensions/extractor/at-once.js',
             'bibi/extensions/extractor/on-the-fly.js',
             'bibi/extensions/sanitizer.js',
